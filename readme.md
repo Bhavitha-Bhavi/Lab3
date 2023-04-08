@@ -1,4 +1,8 @@
+# Group 3 - Lab 3 Execrise
 
+|      Name      |        Email       |
+---------------------------------------
+| Kora Bhavitha  |bkora@mail.yu.edu   |
 # Lab #3: Develop Code Repository and Push Commits 
 
 
