@@ -5,6 +5,8 @@
 | Kora Bhavitha  |bkora@mail.yu.edu   |
 
 | Srikanth Burra |sburra@mail.yu.edu|
+
+| Vidyasagar Gali | vgali@mail.yu.edu |
 # Lab #3: Develop Code Repository and Push Commits 
 
 
